@@ -5,8 +5,8 @@ public class Basic {
         //Using stack class and using string data type to make a stack object
         Stack<String> stack = new Stack<>();
 
-        /*Stack class has push() pop() empty() etc methods
-        more at https://docs.oracle.com/javase/7/docs/api/java/util/Stack.html
+        /*Stack class has push() pop() empty() peek() search() methods
+        learn more at https://docs.oracle.com/javase/7/docs/api/java/util/Stack.html
          */
         System.out.println(stack.empty());
 
